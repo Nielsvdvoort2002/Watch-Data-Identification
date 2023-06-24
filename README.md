@@ -1,7 +1,7 @@
-# The project
-This is the implementation of a CNN-LSTM model used to identify people by their heart rate and step count data.  
+# The Project
+This repository contains the implementation of a CNN-LSTM model used to identify people by their heart rate and step count data. Data preprocessing and the training and testing process are also included.
 
-# Data reproducibility
+# Data Reproducibility
 The data used in this study is not publicly available. The study from which the data was used is described [here](https://classic.clinicaltrials.gov/ct2/show/NCT05802563?term=Me-time&draw=2&rank=1).
 
 # Research Project
